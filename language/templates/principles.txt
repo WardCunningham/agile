@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "$doctype">
+<HTML>
+<HEAD>
+<title>$title</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</HEAD>
+<BODY background="http://AgileManifesto.org/background.jpg">
+
+<br><br><br><br>
+<center><h1>$title</h1></center>
+
+<br><br>
+<center>
+<font size="+2">
+<i>$we_follow</i>
+
+</font>
+
+<p><font size="+2">
+$principle_1
+</font></p>
+
+<p><font size="+2">
+$principle_2
+</font></p>
+
+<p><font size="+2">
+$principle_3
+</font></p>
+
+<p><font size="+2">
+$principle_4
+</font></p>
+
+<p><font size="+2">
+$principle_5
+</font></p>
+
+<p><font size="+2">
+$principle_6
+</font></p>
+
+<p><font size="+2">
+$principle_7
+</font></p>
+
+<p><font size="+2">
+$principle_8
+</font></p>
+
+<p><font size="+2">
+$principle_9
+</font></p>
+
+<p><font size="+2">
+$principle_10
+</font></p>
+
+<p><font size="+2">
+$principle_11
+</font></p>
+
+<p><font size="+2">
+$principle_12
+</font></p>
+<br><br><br>
+
+$links
+
+</center>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2377314-1";
+urchinTracker();
+</script>
+</BODY>
+</HTML>
+
